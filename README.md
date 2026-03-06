@@ -4,6 +4,4 @@
 
 [pesonalization](https://github.com/16X16PixelCat-Studio/My-Projects/wiki/Personalization)
 
-[PixelCat-PDF](https://github.com/16X16PixelCat-Studio/PixelCat-PDF)
-
-[PixelCat-Photo](https://github.com/16X16PixelCat-Studio/PixelCat-Photo)
+[Unessasery slop contant that need to be destroyed](https://github.com/16X16PixelCat-Studio/My-Projects/wiki/Unessasery-slop-contant-that-need-to-be-destroyed)
