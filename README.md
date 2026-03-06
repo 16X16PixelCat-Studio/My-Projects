@@ -2,7 +2,7 @@
 
 [Minecraft Mods and stuff](https://github.com/16X16PixelCat-Studio/My-Projects/wiki/Minecraft-Mods-and-stuff)
 
-[PixelCat-icon-pack](https://github.com/16X16PixelCat-Studio/PixelCat-icon-pack)
+[pesonalization](https://github.com/16X16PixelCat-Studio/My-Projects/wiki/Personalization)
 
 [PixelCat-PDF](https://github.com/16X16PixelCat-Studio/PixelCat-PDF)
 
